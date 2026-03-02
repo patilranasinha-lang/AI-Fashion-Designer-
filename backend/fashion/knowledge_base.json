@@ -1,0 +1,23 @@
+[
+  {
+    "name": "A-Line Dress",
+    "category": "dresses",
+    "body_shapes": ["pear", "hourglass", "apple"],
+    "skin_tones": ["warm", "cool", "neutral"],
+    "occasions": ["casual", "formal", "wedding"]
+  },
+  {
+    "name": "Skinny Jeans",
+    "category": "pants",
+    "body_shapes": ["rectangle", "hourglass"],
+    "skin_tones": ["warm", "cool", "neutral"],
+    "occasions": ["casual"]
+  },
+  {
+    "name": "Button-Down Shirt",
+    "category": "tops",
+    "body_shapes": ["rectangle", "inverted triangle", "apple"],
+    "skin_tones": ["warm", "cool", "neutral"],
+    "occasions": ["casual", "formal", "interview"]
+  }
+]
